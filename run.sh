@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+pip3 install --upgrade gdown
 pip3 install --upgrade spleeter
 sudo apt install unzip
 pip3 install --upgrade llvmlite
